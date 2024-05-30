@@ -1,0 +1,8 @@
+Determining if the include file stddef.h exists failed with the following output:
+Change Dir: C:/Users/isaga/tcp/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Users/isaga/.espressif/tools/ninja/1.11.1/ninja.exe cmTC_f1495 && ninja: error: loading 'build.ninja': El sistema no puede encontrar el archivo especificado.
+
+
+
+
